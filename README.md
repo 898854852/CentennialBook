@@ -1,1 +1,1 @@
-# CentennialBook
+# CentennialBook Our project, called Centennial Books, is an online accounting & financing software that aids clients in small businesses, and large corporations to manage and track their finances in real-time. 
